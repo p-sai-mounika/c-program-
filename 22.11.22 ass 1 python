@@ -1,0 +1,11 @@
+p=int(input("p"))
+si=float(input("si"))
+t=int(input("t"))
+Emi=(p*si)/t*12
+Print("p",p)
+Print("si",si)
+Print("t",t)
+Print("EMI",Emi)
+
+
+
