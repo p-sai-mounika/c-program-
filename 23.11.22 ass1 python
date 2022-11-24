@@ -1,0 +1,6 @@
+a=30
+b=25
+if a>b:
+Print("biggest")
+Else:
+Print("smallest")
