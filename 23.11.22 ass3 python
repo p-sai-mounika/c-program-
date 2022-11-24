@@ -1,4 +1,4 @@
-a=int(input())
+n=int(input())
 if (n%2)==0:
 Print("even")
 else:
