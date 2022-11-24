@@ -1,0 +1,6 @@
+a=25
+b=25
+if a==b:
+Print("equal")
+else:
+Print("not equal")
